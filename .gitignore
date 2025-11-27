@@ -20,3 +20,6 @@ __pycache__/
 
 # Virtual environment
 server/venv/
+
+# SQLite database
+*.db
